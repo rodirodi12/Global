@@ -1,7 +1,7 @@
 -- init
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rodirodi12/Global/main/Main_Library"))()
 local venyx = library.new("Cmd", 5013109572)
-asdsa
+
 -- themes
 local themes = {
 Background = Color3.fromRGB(24, 24, 24),
