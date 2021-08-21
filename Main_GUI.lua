@@ -1,6 +1,6 @@
 -- init
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rodirodi12/Global/main/Main_Library.lua"))()
-local venyx = library.new("Venyx", 5013109572)
+local venyx = library.new("Cmd", 5013109572)
 
 -- themes
 local themes = {
