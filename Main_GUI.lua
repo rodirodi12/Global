@@ -1,6 +1,6 @@
 -- init
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rodirodi12/Global/main/Main_Library.lua"))()
-local venyx = library.new("Cmd", 5013109572)
+local venyx = library.new("Venyx", 5013109572)
 
 -- themes
 local themes = {
@@ -13,7 +13,7 @@ TextColor = Color3.fromRGB(255, 255, 255)
 }
 
 -- first page
-local page = venyx:addPage("Test", 5012544693)
+local page = venyx:addPage("Ayarlar", 5012544693)
 local section1 = page:addSection("Section 1")
 local section2 = page:addSection("Section 2")
 
